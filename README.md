@@ -15,3 +15,7 @@ SetFit using only 8 labeled examples per class on the Customer Reviews (CR) sent
 🏎 Fast to train: SetFit doesn't require large-scale models like T0 or GPT-3 to achieve high accuracy. As a result, it is typically an order of magnitude (or more) faster to train and run inference with.
 
 🌎 Multilingual support: SetFit can be used with any Sentence Transformer on the Hub, which means you can classify text in multiple languages by simply fine-tuning a multilingual checkpoint.
+
+# Installing SetFit
+Using Collab:
+!pip install setfit
