@@ -18,4 +18,5 @@ SetFit using only 8 labeled examples per class on the Customer Reviews (CR) sent
 
 # Installing SetFit
 Using Collab:
-!pip install setfit
+
+``` !pip install setfit``` 
